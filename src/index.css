@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+  body{
+      font-family: Noto Sans Display;
+      background-color: linear-gradient(180.00deg, #fe94a6,#f2f2f2 65.849%);
+  }
+}
